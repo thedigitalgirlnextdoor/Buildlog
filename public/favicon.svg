@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none">
+  <!-- Bottom block: Deep Teal -->
+  <path d="M18 32L5 25V19.5L18 26.5L31 19.5V25L18 32Z" fill="#0B3D46"/>
+  <path d="M18 26.5L5 19.5L18 12.5L31 19.5L18 26.5Z" fill="#0F4E59"/>
+  <!-- Middle block: Ocean Blue -->
+  <path d="M18 24.5L7 18.5V13.5L18 19.5L29 13.5V18.5L18 24.5Z" fill="#0E7490"/>
+  <path d="M18 19.5L7 13.5L18 7.5L29 13.5L18 19.5Z" fill="#148AA8"/>
+  <!-- Top block: Fresh Green -->
+  <path d="M18 17L9.5 12.4V8.2L18 12.8L26.5 8.2V12.4L18 17Z" fill="#65A30D"/>
+  <path d="M18 12.8L9.5 8.2L18 3.6L26.5 8.2L18 12.8Z" fill="#84CC16"/>
+</svg>

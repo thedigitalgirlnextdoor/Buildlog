@@ -1,0 +1,6 @@
+{
+  "name": "BuildLog",
+  "description": "BuildLog — An AI-powered workspace that helps you plan, create, distribute and grow your brand online, step by step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
